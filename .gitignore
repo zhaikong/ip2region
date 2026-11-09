@@ -26,7 +26,6 @@ META-INF/
 # vim swp file #
 *.swp
 .idea
-.vscode
 
 # binding
 /binding/java/classes/
@@ -87,8 +86,9 @@ target
 /binding/erlang/doc
 
 #vscode
-.vscode
 build
 
 # git worktrees
 .worktrees/
+config.bat
+node_modules
